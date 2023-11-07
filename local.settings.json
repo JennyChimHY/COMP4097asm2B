@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node", 
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "hubName": "jennycomp4097asm2IoThub",
+    "WebPubSubConnectionString": "Endpoint=https://jennycomp4097asm2resourcename.webpubsub.azure.com;AccessKey=Z0eqQYzIU1dv/3yQVIpK8OpJikz7YgOcbwhKoiw93xk=;Version=1.0;",
+    "IOTHubConnectionString": "Endpoint=sb://iothub-ns-jennycomp4-25338303-3cc630829c.servicebus.windows.net/;SharedAccessKeyName=service;SharedAccessKey=aNSlQXXVtipfkjxLlKU/rGQmQ3CL8RXdbAIoTJI8sZ0=;EntityPath=jennycomp4097asm2iothub"
+  },
+  "ConnectionStrings": {}
+}
