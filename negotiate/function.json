@@ -13,8 +13,8 @@
       },
       {
           "type": "webPubSubConnection",
-          "name": "connection",
-          "hub": "%hubName%",
+          "name": "connection", 
+          "hub": "jennycomp4097asm2IoThub",
           "direction": "in"
       }
   ]
